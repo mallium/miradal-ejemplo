@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x   5 daniel  staff  160 May 16 09:38 .
+drwxr-xr-x   3 daniel  staff   96 May 16 09:35 ..
+drwxr-xr-x  12 daniel  staff  384 May 16 09:35 .git
+-rw-r--r--   1 daniel  staff   40 May 16 09:35 README.md
+-rw-r--r--   1 daniel  staff    0 May 16 09:38 mi-carpeta.txt
